@@ -35,8 +35,7 @@ Below we can see exactly how our data is structured and the information that it 
 
 ![image](https://user-images.githubusercontent.com/93171738/153125803-e1735698-ff40-4860-b1c3-ffd35137963d.png)
 
-
-
+## Summary
 
 
 
