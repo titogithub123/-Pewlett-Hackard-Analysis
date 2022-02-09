@@ -8,12 +8,12 @@ Given our analysis, we are able to determine quite a bit of information when it 
 
 By taking this data and analyzing it we can be better prepared and equiped to meet the upcoming inevitablilty of thousands of employees no longer being part of the company. For example we can...
 
-- See the individual employees who fit the critera of being born between Januray 1st, 1952 to December 31, 1955.
-- Determine a count of how many employees are reaching retirement age by department
-- Help us prepare our hiring metrics to make sure we fill the roles where they are most needed in the departments where we will lose employees.
+- (1) See the individual employees who fit the critera of being born between Januray 1st, 1952 to December 31, 1955.
+- (2) Determine a count of how many employees are reaching retirement age by department
+- (3) Help us prepare our hiring metrics to make sure we fill the roles where they are most needed in the departments where we will lose employees.
 
 Additionaly, we are also able to...
 
-- Calculate who fits the critera and is available to participate in our Mentorship Eligibiltiy program.
+- (4) Calculate who fits the critera and is available to participate in our Mentorship Eligibiltiy program.
 
 
