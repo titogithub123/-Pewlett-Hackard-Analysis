@@ -10,7 +10,7 @@ By taking this data and analyzing it we can be better prepared and equiped to me
 
 - (1) See the individual employees who fit the critera of being born between Januray 1st, 1952 to December 31, 1955.
 - (2) Determine a count of how many employees are reaching retirement age by department
-- (3) Help us prepare our hiring metrics to make sure we fill the roles where they are most needed in the departments where we will lose employees.
+- (3) Calculate the total number of retirment age employees.
 
 Additionaly, we are also able to...
 
@@ -23,4 +23,11 @@ Below we can see exactly how our data is structured and the information that it 
 
 ![image](https://user-images.githubusercontent.com/93171738/153124576-fd468203-39de-471f-b550-30e8e405da53.png)
 
-dfdd
+(2) Here we have 
+
+
+
+
+
+
+ Help us prepare our hiring metrics to make sure we fill the roles where they are most needed in the departments where we will lose employees.
