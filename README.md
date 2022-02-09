@@ -23,7 +23,10 @@ Below we can see exactly how our data is structured and the information that it 
 
 ![image](https://user-images.githubusercontent.com/93171738/153124576-fd468203-39de-471f-b550-30e8e405da53.png)
 
-(2) Here we have 
+(2) Here we have the titles of the retiring employees along with the number of employees within each catagory. 
+
+![image](https://user-images.githubusercontent.com/93171738/153125377-366d1bac-81ad-46ca-a4c5-2cf57ffb6e23.png)
+
 
 
 
