@@ -26,7 +26,6 @@ Below we can see exactly how our data is structured and the information that it 
 (2) Here we have the titles of the retiring employees along with the number of employees within each catagory. 
 
 ![image](https://user-images.githubusercontent.com/93171738/153125377-366d1bac-81ad-46ca-a4c5-2cf57ffb6e23.png)
-
 (3) By performing a simple sum function we can see that the total number of retirement age employees is 90,398. This by no means is a small number. There will be many roles to fill as these seasoned veterns are preparing for a life of leisure on the other side of a lifetime of service. 
 
 ![image](https://user-images.githubusercontent.com/93171738/153125602-f9b892fb-0002-473a-b6c7-c799b55b86ba.png)
