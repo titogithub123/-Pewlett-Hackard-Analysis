@@ -10,4 +10,4 @@ By taking this data and analyzing it we can be better prepared and equiped to me
 
 - See the individual employees who fit the critera of being born between Januray 1st, 1952 to December 31, 1955.
 - Determine a count of how many employees are reaching retirement age by department
-- Help 
+- Help us prepare our hiring metrics to make sure we fill the roles where they are most needed 
