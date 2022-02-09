@@ -16,4 +16,8 @@ Additionaly, we are also able to...
 
 - (4) Calculate who fits the critera and is available to participate in our Mentorship Eligibiltiy program.
 
+Below we can see exactly how our data is structured and the information that it provides. (I have taken the liberty of preparing the data in a Pandas DataFrame, for easier reference.)
 
+(1) ![image](https://user-images.githubusercontent.com/93171738/153124576-fd468203-39de-471f-b550-30e8e405da53.png)
+
+dfdd
