@@ -40,7 +40,17 @@ As we can see, the purpose of our analysis was to prepare the company to effieci
 With the passage of time we will begin to see a siesmic shift in the demographics of the company as older employees reach retirment age. From the following figure we can see that out of the 6 departments in the company that will be losing employees we have an average of 12,914 employees who will no longer be with the company. Our total figure of 90,398 is the number of all the employees who fall into our date ranges for retirement. 
 
 ![image](https://user-images.githubusercontent.com/93171738/153946697-e06aac51-4715-4a4e-97ea-c941452588da.png)
+
 This provides us vital information because we know we have to start ramping up our hiring metrics to make sure we are meeting the demand for workers that so many retireing employees will create. 
 
+Additionally, by performing a quick calculation...
 
- Help us prepare our hiring metrics to make sure we fill the roles where they are most needed in the departments where we will lose employees.
+![image](https://user-images.githubusercontent.com/93171738/153947593-2e728427-8d2e-4ba9-956e-f0b672fe98e0.png)
+
+We can see that we are going to fall well short of the having enough employees eligible for the mentoringship program. As things stand each mentor eligible participant would have to take on approx. 57 new hires as mentorees.
+
+![image](https://user-images.githubusercontent.com/93171738/153947837-6675d2dd-65e5-400e-a7f3-ba137a404785.png)
+
+This number puts a high burden on management to find a way to absorb all the new hires that will be coming in to replace those exitiing via the silver tsunami. 
+
+
