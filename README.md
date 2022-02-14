@@ -47,9 +47,9 @@ Additionally, by performing a quick calculation...
 
 ![image](https://user-images.githubusercontent.com/93171738/153947593-2e728427-8d2e-4ba9-956e-f0b672fe98e0.png)
 
-We can see that we are going to fall well short of the having enough employees eligible for the mentoringship program. As things stand each mentor eligible participant would have to take on approx. 57 new hires as mentorees.
+We can see that we are going to fall well short of the having enough employees eligible for the mentoringship program. As things stand each mentor eligible participant would have to take on approx. 58 new hires as mentorees.
 
-![image](https://user-images.githubusercontent.com/93171738/153947837-6675d2dd-65e5-400e-a7f3-ba137a404785.png)
+![image](https://user-images.githubusercontent.com/93171738/153948060-6abae466-73a0-4844-a081-cca7f9ade3f7.png)
 
 This number puts a high burden on management to find a way to absorb all the new hires that will be coming in to replace those exitiing via the silver tsunami. 
 
