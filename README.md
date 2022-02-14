@@ -37,9 +37,10 @@ Below we can see exactly how our data is structured and the information that it 
 ## Summary
 As we can see, the purpose of our analysis was to prepare the company to effieciently deal with the upcoming onslaught of vacancies that will be created by the large number of retiring employees. 
 
-With the passage of time we will begin to see a siesmic shift in the demographics of the company as older employees reach retirment age. 
+With the passage of time we will begin to see a siesmic shift in the demographics of the company as older employees reach retirment age. From the following figure we can see that out of the 6 departments in the company that will be losing employees we have an average of 12,914 employees who will no longer be with the company. Our total figure of 90,398 is the number of all the employees who fall into our date ranges for retirement. 
 
-
+![image](https://user-images.githubusercontent.com/93171738/153946697-e06aac51-4715-4a4e-97ea-c941452588da.png)
+This provides us vital information because we know we have to start ramping up our hiring metrics to make sure we are meeting the demand for workers that so many retireing employees will create. 
 
 
  Help us prepare our hiring metrics to make sure we fill the roles where they are most needed in the departments where we will lose employees.
