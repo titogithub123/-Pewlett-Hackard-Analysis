@@ -35,7 +35,9 @@ Below we can see exactly how our data is structured and the information that it 
 
 ![image](https://user-images.githubusercontent.com/93171738/153125803-e1735698-ff40-4860-b1c3-ffd35137963d.png)
 ## Summary
+As we can see, the purpose of our analysis was to prepare the company to effieciently deal with the upcoming onslaught of vacancies that will be created by the large number of retiring employees. 
 
+With the passage of time we will begin to see a siesmic shift in the demographics of the company as older employees reach retirment age. 
 
 
 
